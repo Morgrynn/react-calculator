@@ -1,4 +1,4 @@
-Scientific Calculator app
+Calculator app
 
 Completed at Buutti Oy coding buutcamp.
 
